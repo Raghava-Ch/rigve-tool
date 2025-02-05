@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Source Code Visualization Necessity","permalink":"/rigve-tool/blog/RigVe","unlisted":false,"date":"2025-02-08T00:00:00.000Z"}]}')}}]);
