@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://raghava-ch.github.io/blog</id>
+    <title>RigVe Blog</title>
+    <updated>2025-02-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://raghava-ch.github.io/blog"/>
+    <subtitle>RigVe Blog</subtitle>
+    <icon>https://raghava-ch.github.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Source Code Visualization Necessity]]></title>
+        <id>https://raghava-ch.github.io/blog/RigVe</id>
+        <link href="https://raghava-ch.github.io/blog/RigVe"/>
+        <updated>2025-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Power of Visualization]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="understanding-the-power-of-visualization">Understanding the Power of Visualization<a href="https://raghava-ch.github.io/blog/RigVe#understanding-the-power-of-visualization" class="hash-link" aria-label="Direct link to Understanding the Power of Visualization" title="Direct link to Understanding the Power of Visualization">​</a></h2>
+<p>Source code visualization distills complex structures into comprehensible diagrams, making dependencies and interactions more evident. This clarity supports deeper insights and smoother collaboration, especially when presenting design decisions or onboarding new contributors.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="streamlined-collaboration">Streamlined Collaboration<a href="https://raghava-ch.github.io/blog/RigVe#streamlined-collaboration" class="hash-link" aria-label="Direct link to Streamlined Collaboration" title="Direct link to Streamlined Collaboration">​</a></h2>
+<p>• Developers rapidly trace intricate logic to spot bugs or performance bottlenecks.<br>
+<!-- -->• Managers and architects identify where strategic improvements fit with minimal confusion.<br>
+<!-- -->• Visual context fosters immediate engagement, reducing communication gaps across roles and speeding up overall project progress.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="technical-insights">Technical Insights<a href="https://raghava-ch.github.io/blog/RigVe#technical-insights" class="hash-link" aria-label="Direct link to Technical Insights" title="Direct link to Technical Insights">​</a></h2>
+<p>Automation tools can scan all the project source code and create interactive diagrams, illuminating hidden relationships. These representations simplify knowledge transfer, minimize errors, and enhance code reviews by surfacing high-risk sections. Adopting such practices encourages maintainable systems and empowers teams to innovate confidently.</p>]]></content>
+        <author>
+            <name>Raghava</name>
+            <uri>https://raghava-ch.github.io/rigve-tool/</uri>
+        </author>
+        <category label="visualization" term="visualization"/>
+    </entry>
+</feed>
