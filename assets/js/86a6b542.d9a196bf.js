@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[701],{4414:s=>{s.exports=JSON.parse('{"tags":[{"label":"visualization","permalink":"/rigve-tool/blog/tags/visualization","description":"Posts about source code visualization","count":1}]}')}}]);
